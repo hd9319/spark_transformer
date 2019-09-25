@@ -1,0 +1,7 @@
+{
+	"file_path": "assets/inputs/health_data.csv",
+	"output_directory": "assets/outputs/health_data",
+	"master_url": "localhost",
+	"app_name": "spark_transformer",
+	"memory": "1g"
+}
